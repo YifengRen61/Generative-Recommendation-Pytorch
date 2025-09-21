@@ -7,7 +7,7 @@ This repository contains my solution for the **Tencent Advertising Algorithm Com
 The competition organizers provided a **baseline model**, which I think is modified from **SASRec(Self-Attentive Sequential Recommendation)**.  
 This repository contains my improvements over that baseline, including model design, architecture changes, and optimization for efficiency.
 
-## 🚀 What I Did
+## What I Did
 
 - **Implemented HSTU model**
   - Inspired by Meta's paper *"Actions Speak Louder Than Words"* and the HSTU architecture [Du et al., 2024].
